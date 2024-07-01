@@ -1,2 +1,2 @@
-# DotNet-Project
-ASP .NET 4.8
+# EMS.NET
+Porting Employee Management System built with Spring-Boot to ASP .NET 4.8
