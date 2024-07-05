@@ -1,0 +1,14 @@
+
+*.dll
+*.vsidx
+*.exe
+*.json
+*.vsidx
+/EMS/.vs
+/EMS/.vs/EMS
+*.rsp
+*.cache
+/EMS/Employee Management System/obj/Debug
+/EMS/Employee Management System/obj
+*.ldf
+*.pdb
