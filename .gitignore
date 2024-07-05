@@ -12,3 +12,6 @@
 /EMS/Employee Management System/obj
 *.ldf
 *.pdb
+*.xml
+*.targets
+*.cache
