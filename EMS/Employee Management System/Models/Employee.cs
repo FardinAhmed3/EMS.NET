@@ -20,7 +20,15 @@ namespace Employee_Management_System.Models
 
         [Required]
         public string position { get; set; }
-       
+
+
+       /* public enum Department
+          {
+              Technology, Finance, Operations
+          }
+
+          [Required]
+        public Department department { get; set; }*/
         public string city { get; set; }
 
        // public Employee(){} <-- Implicitly given by compiler
