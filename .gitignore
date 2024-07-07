@@ -15,3 +15,5 @@
 *.xml
 *.targets
 *.cache
+*.mdf
+*.config
