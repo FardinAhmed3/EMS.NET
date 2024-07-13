@@ -25,6 +25,11 @@ packages/
 .idea_modules/
 *.sln.iml
 .idea/.idea.LocalHistory/
+*.DocumentLayout.json
+*.dll.config
+*.force
+*.exe.config
+*.rsp
 /EMS/bin
 /EMS/obj/Debug
 *.exe
