@@ -1,0 +1,97 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Folders
+.vscode/
+.idea/
+node_modules/
+packages/
+
+# Rider-specific files
+.idea/
+.idea/*
+.idea_modules/
+*.sln.iml
+.idea/.idea.LocalHistory/
+
+# Visual Studio
+.vscode/
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.cache
+*.pdb
+*.ilk
+*.aps
+*.ncb
+*.obj
+*.ipch
+*.tlog
+*.log
+*.vspscc
+*.vspcc
+*.vssscc
+*.userosscache
+*.userprefs
+*.VC.db
+*.pidb
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/*.code-workspace
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+
+# Backup & report files
+_Bak*
+*.bak
+*.log
+*.sql
+*.swp
+*.swo
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Entity Framework
+*.edmx*
+*.tt
+
+# Mono Auto Generated
+mono_crash.*
+
+# Rider Local History
+.idea/.idea.LocalHistory/
