@@ -13,6 +13,7 @@ Desktop.ini
 $RECYCLE.BIN/
 
 # Folders
+.vs
 .vscode/
 .idea/
 node_modules/
@@ -24,6 +25,12 @@ packages/
 .idea_modules/
 *.sln.iml
 .idea/.idea.LocalHistory/
+/EMS/bin
+/EMS/obj/Debug
+*.exe
+*.targets
+*.vsidx
+*.dll
 
 # Visual Studio
 .vscode/
